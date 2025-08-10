@@ -24,8 +24,8 @@ This project detects fraudulent transactions using machine learning. The model i
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/online-fraud-detection-ml.git
-cd online-fraud-detection-ml
+git clone https://https://github.com/SreejaGanne/Online-Payment-Fraud-Detection
+cd Online-Payment-Fraud-Detection
 pip install -r requirements.txt
 python fraud_detection.py
 ```
